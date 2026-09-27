@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/drawable_bg_icon_person.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/drawable/bg_icon_person.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/layout_activity_history.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/drawable_bg_card.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/drawable_bg_camera_frame.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/drawable/bg_camera_frame.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/layout_item_detection.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/layout/item_detection.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/drawable_bg_icon_vehicle.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/drawable/bg_icon_vehicle.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-debug-39:/drawable_bg_chip.xml.flat",
+        "source": "com.example.motiondetector.app-main-41:/drawable/bg_chip.xml"
+    }
+]

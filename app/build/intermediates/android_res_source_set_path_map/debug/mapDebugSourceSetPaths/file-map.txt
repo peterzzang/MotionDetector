@@ -1,0 +1,8 @@
+com.example.motiondetector.app-pngs-0 /Users/peterzzang/DATA/APP/MotionDetectorApp/app/build/generated/res/pngs/debug
+com.example.motiondetector.app-updated_navigation_xml-1 /Users/peterzzang/DATA/APP/MotionDetectorApp/app/build/generated/updated_navigation_xml/debug
+com.example.motiondetector.app-packageDebugResources-2 /Users/peterzzang/DATA/APP/MotionDetectorApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.motiondetector.app-packageDebugResources-3 /Users/peterzzang/DATA/APP/MotionDetectorApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.motiondetector.app-debug-4 /Users/peterzzang/DATA/APP/MotionDetectorApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.motiondetector.app-debug-5 /Users/peterzzang/DATA/APP/MotionDetectorApp/app/src/debug/res
+com.example.motiondetector.app-main-6 /Users/peterzzang/DATA/APP/MotionDetectorApp/app/src/main/res
+gradleHome-0 /Users/peterzzang/.gradle

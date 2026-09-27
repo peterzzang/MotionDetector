@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.motiondetector.app-mergeDebugResources-38:/layout/activity_history.xml",
+        "source": "com.example.motiondetector.app-main-41:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-mergeDebugResources-38:/layout/item_detection.xml",
+        "source": "com.example.motiondetector.app-main-41:/layout/item_detection.xml"
+    },
+    {
+        "merged": "com.example.motiondetector.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.motiondetector.app-main-41:/layout/activity_main.xml"
+    }
+]

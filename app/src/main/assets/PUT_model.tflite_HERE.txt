@@ -1,0 +1,2 @@
+이 폴더에 model.tflite 파일을 넣어주세요. (README.md의 "모델 파일 추가" 섹션 참고)
+이 텍스트 파일은 model.tflite를 추가한 뒤 삭제해도 됩니다.

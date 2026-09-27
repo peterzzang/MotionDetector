@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0B0F14</color>
+    <color name="border">#26313F</color>
+    <color name="green">#3DDC84</color>
+    <color name="panel">#121822</color>
+    <color name="panel2">#1A2230</color>
+    <color name="person_color">#4DA3FF</color>
+    <color name="red">#FF5D5D</color>
+    <color name="text_muted">#8A96A3</color>
+    <color name="text_primary">#E8EDF3</color>
+    <color name="vehicle_color">#FF9F40</color>
+    <string name="app_name">실시간 움직임 감지</string>
+    <style name="Theme.MotionDetector" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+    </style>
+</resources>
