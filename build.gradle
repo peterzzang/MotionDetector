@@ -2,7 +2,7 @@ plugins {
     // AGP 9+ has built-in Kotlin support, so the separate
     // 'org.jetbrains.kotlin.android' (KGP) plugin is no longer applied here.
     // Applying both causes: "Cannot add extension with name 'kotlin' ...".
-    id 'com.android.application' version '9.3.3' apply false
+    id 'com.android.application' version '9.4.1' apply false
     // KSP replaces kapt for annotation processing (Room). kapt is legacy and
     // increasingly breaks on newer Gradle/Kotlin combinations.
     id 'com.google.devtools.ksp' version '2.3.6' apply false

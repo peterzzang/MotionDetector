@@ -4,7 +4,7 @@
             "outputFile": "com.example.motiondetector.app-mergeDebugResources-37:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/Users/peterzzang/.gradle/caches/9.5.0/transforms/d9cee7d1ab9326d53e01658c8ec147af/transformed/appcompat-1.6.1/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/peterzzang/.gradle/caches/9.6.0/transforms/eb56e215562347994945de6dd30d86d8/transformed/appcompat-1.6.1/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/peterzzang/.gradle/caches/9.5.0/transforms/bc8ae4273574d3c4825393bf056208de/transformed/core-1.12.0/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/peterzzang/.gradle/caches/9.6.0/transforms/d961f0bd9fd68489b75f30eb293adc19/transformed/core-1.12.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

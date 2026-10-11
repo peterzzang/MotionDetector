@@ -4,7 +4,7 @@
             "outputFile": "com.example.motiondetector.app-mergeDebugResources-37:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "/Users/peterzzang/.gradle/caches/9.5.0/transforms/583da85b1ab7ac9c5d9abf115eafd54c/transformed/material-1.11.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "/Users/peterzzang/.gradle/caches/9.6.0/transforms/68dd7917ab11323dc7f7a3adb2e31f0f/transformed/material-1.11.0/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

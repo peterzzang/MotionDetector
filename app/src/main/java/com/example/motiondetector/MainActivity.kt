@@ -501,6 +501,14 @@ class MainActivity : AppCompatActivity() {
 
     private fun stopVideoRecording() {
         mainHandler.removeCallbacks(stopRecordingRunnable)
+        // Cancel the 250ms countdown tick immediately rather than waiting for the
+        // async Finalize event to do it. Recording.stop() finalizes on a background
+        // thread and can take a moment (or, from onDestroy(), may never get a chance
+        // to run its callback against a live Activity); leaving the tick scheduled
+        // in the meantime means it keeps touching `binding` after we've asked the
+        // recording to stop (and potentially after onDestroy()), which leaks the
+        // Activity via the Handler and can crash if the view binding is gone.
+        recordingTickRunnable?.let { mainHandler.removeCallbacks(it) }
         activeRecording?.stop()
         // isRecordingClip / badge visibility are reset inside the Finalize event above.
         // If there was no active recording, make sure state doesn't get stuck.
